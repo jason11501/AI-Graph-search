@@ -20,3 +20,6 @@ Ngoài ra, code còn sử dụng thêm một số kiến thức của OOP: <br>
 
 **Ngôn ngữ (Language):**<br>
 * Python
+
+## Reference
+* Linh Trần
